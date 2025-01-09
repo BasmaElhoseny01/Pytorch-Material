@@ -1,9 +1,4 @@
 # Pytorch 🌐✨ Material
-
-https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4
-
-
-
 <div>
     <img width="70%" src="https://images.contentstack.io/v3/assets/blt71da4c740e00faaa/blta0a2b73db867a180/5eb0ce13d046ad605a634db3/PyTorch.jpg" alt="Pytorch Background"/>
 </div>
